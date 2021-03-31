@@ -8,13 +8,14 @@ This is a template for making a Heroku Python/Django app. The goal is to have a 
 
 ## Frontend Checklist
 
-- [ ] Form fill buttons
-- [ ] Drop-down menu templates
+- [ ] Form fill boxes
+- [ ] Drop-down menu with options
 - [ ] Upload text file
 
 ## Backend Checklist
 
 - [ ] Parse uploaded text file
 - [ ] Parse drop-down menu information
+- [ ] Parse form fill box information
 - [ ] Display information on screen
 - [ ] Allow user to interact with and change on-screen information
