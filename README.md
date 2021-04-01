@@ -19,3 +19,11 @@ This is a template for making a Heroku Python/Django app. The goal is to have a 
 - [ ] Parse form fill box information
 - [ ] Display information on screen
 - [ ] Allow user to interact with and change on-screen information
+
+## Misc. Notes
+
+### Three-Step Guide to Making Model Changes
+
+- Change your models (in `models.py`).
+- Run `python3 manage.py makemigrations` to create migrations for those changes.
+- Run `python3 manage.py migrate` to apply those changes to the database.
