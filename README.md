@@ -22,6 +22,28 @@ This is a template for making a Heroku Python/Django app. The goal is to have a 
 
 ## Misc. Notes
 
+### Create a New App
+
+[Tutorial 1](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) covers this.
+
+1. Run this command:
+
+```bash
+$ python3 manage.py startapp [app_name]
+```
+
+2. Modify app's `views.py` file.
+
+3. Modify app's `urls.py` file.
+
+4. Modify `mysite/urls.py`.
+
+5. Run the server:
+
+```bash
+$ python3 manage.py runserver
+```
+
 ### Three-Step Guide to Making Model Changes
 
 - Change your models (in `models.py`).
