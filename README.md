@@ -1,6 +1,6 @@
 # Webapp Template
 
-[Bookmark](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
+[Bookmark](https://docs.djangoproject.com/en/3.1/intro/tutorial03/)
 
 This is a template for making a Heroku Python/Django app. The goal is to have a working implementation with frontend and backend where functionality can be implemented quickly with a fork.
 
