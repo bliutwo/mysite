@@ -6,6 +6,17 @@ This is a template for making a Heroku Python/Django app. The goal is to have a 
 
 **Note**: I will only be adding files that I change from the default `django-admin startproject mysite` command, since doing a `git add .` adds the section of code with a secret key.
 
+## Tutorial Checklist
+
+- [x] Part 1
+- [x] Part 2
+- [x] Part 3
+- [ ] Part 4
+- [ ] Part 5
+- [ ] Part 6
+- [ ] Part 7
+- [ ] Advanced Tutorial: How to write reusable apps
+
 ## Frontend Checklist
 
 - [ ] Form fill boxes
