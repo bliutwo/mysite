@@ -1,6 +1,6 @@
 # Webapp Template
 
-[Bookmark](https://docs.djangoproject.com/en/3.1/intro/tutorial07/)
+[Bookmark](https://docs.djangoproject.com/en/3.1/intro/reusable-apps/)
 
 This is a template for making a Heroku Python/Django app. The goal is to have a working implementation with frontend and backend where functionality can be implemented quickly with a fork.
 
@@ -14,7 +14,7 @@ This is a template for making a Heroku Python/Django app. The goal is to have a 
 - [x] Part 4
 - [x] Part 5
 - [x] Part 6
-- [ ] Part 7
+- [x] Part 7
 - [ ] Advanced Tutorial: How to write reusable apps
 
 ## Frontend Checklist
