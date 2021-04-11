@@ -11,8 +11,8 @@ This is a template for making a Heroku Python/Django app. The goal is to have a 
 - [x] Part 1
 - [x] Part 2
 - [x] Part 3
-- [ ] Part 4
-- [ ] Part 5
+- [x] Part 4
+- [x] Part 5
 - [ ] Part 6
 - [ ] Part 7
 - [ ] Advanced Tutorial: How to write reusable apps
