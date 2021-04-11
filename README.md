@@ -13,7 +13,7 @@ This is a template for making a Heroku Python/Django app. The goal is to have a 
 - [x] Part 3
 - [x] Part 4
 - [x] Part 5
-- [ ] Part 6
+- [x] Part 6
 - [ ] Part 7
 - [ ] Advanced Tutorial: How to write reusable apps
 
